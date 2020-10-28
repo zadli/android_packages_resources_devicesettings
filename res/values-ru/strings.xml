@@ -119,4 +119,270 @@
     <string name="quick_charge_summary">Быстрая зарядка. Отсоедините и повторно подключите зарядное устройство после изменения данной настройки.</string>
     <string name="camera_focus_fix_title">Исправить фокусировку камеры</string>
     <string name="camera_focus_fix_summary">Включите, если у вас есть проблемы с фокусировкой камеры</string>
+    
+    <!-- Awaken settings -->
+    
+    <!-- General -->
+    <string name="ok">Ок</string>
+    <string name="default_string">По умолчанию</string>
+    <string name="add">Добавить</string>
+    <string name="enabled">Включено</string>
+    <string name="choose_app">Выберите приложение</string>
+    <string name="help">Помощь</string>
+    <string name="reset_message">Сбросить все значения на значения по умолчанию?</string>
+    <string name="attention">Предупреждение</string>
+    <string name="reset">Перезагрузка</string>
+
+    <!-- Awaken Settings -->
+    <string name="awaken_settings_title">Настройки Awaken</string>
+    <string name="statusbar_title">Статус бар</string>
+    <string name="quicksettings_title">Быстрые настройки</string>
+    <string name="button_settings_title">Кнопки</string>
+    <string name="lockscreen_title">Экран блокировки</string>
+    <string name="notifications_title">Уведомления</string>
+    <string name="miscellaneous_title">Разное</string>
+    <string name="statusbar_summary">Батарея, часы, значки статус бара и.т.д</string>
+    <string name="quick_settings_summary">Акцент быстрых настроек, тактильная обратная связь и.т.д</string>
+    <string name="buttons_summary">Управление воспроизведением, переход к камере, расширенный перезапуск и.т.д</string>
+    <string name="lockscreen_summary">Медиа обложка, информация о заряде, погода и.т.д</string>
+    <string name="notifications_summary">Заголовки уведомлений и.т.д</string>
+    <string name="miscellaneous_summary">Условия и предложения панели инструментов и.т.д</string>
+    <string name="ambient_display_summary">Всегда включенный экран, жесты и т.д</string>
+
+    <!-- Double Tap gestures -->
+    <string name="double_tap_sleep_lockscreen_title">Двойное нажатие на экране блокировки для пробуждения</string>
+    <string name="double_tap_sleep_lockscreen_summary">Дважды коснитесь в любом месте экрана блокировки, чтобы перевести телефон в спящий режим</string>
+    <string name="double_tap_sleep_gesture_title">Двойное нажатие для сна в строке состояния</string>
+    <string name="double_tap_sleep_gesture_summary">Дважды коснитесь строки состояния, чтобы перевести устройство в спящий режим</string>
+
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">Пробудить устройство</string>
+    <string name="volume_rocker_wake_summary">Нажмите клавишу громкости для пробуждения устройства</string>
+
+    <!-- Volume rocker music control -->
+    <string name="volume_rocker_music_controls_title">Управление воспроизведением</string>
+    <string name="volume_rocker_music_controls_summary">Когда экран выключен, длительное нажатие клавиш громкости будет переключать музыкальные треки</string>
+
+    <string name="use_old_mobiletype_title">Старый значок сети</string>
+    <string name="use_old_mobiletype_summary">Отображать pre-p значок сети (требуется перезагрузка)</string>
+
+    <!-- QS Tint -->
+    <string name="qs_bg_use_new_tint">Новый стиль акцента</string>
+    <string name="qs_bg_use_new_tint_summary">Использовать новый стиль акцента QS (требуется перезагрузка)</string>
+
+    <!-- 4G icon -->
+    <string name="show_fourg_icon_title">Значок 4G</string>
+    <string name="show_fourg_icon_summary">Отображение значока 4G вместо LTE</string>
+
+    <!-- Data disabled icon -->
+    <string name="data_disabled_icon_title">Значок выключенной передачи данных</string>
+    <string name="data_disabled_icon_summary">Отображение крестика рядом со значком сети при отключенной передаче данных</string>
+
+    <!-- Roaming indicator icon -->
+    <string name="roaming_indicator_icon_title">Индикатор роуминга</string>
+    <string name="roaming_indicator_icon_summary">Отображение индикатора роуминга в значке сигнала в режиме роуминга</string>
+
+    <!-- Translucent lockscreen notifications background -->
+    <string name="translucent_lockscreen_notifications_bg_title">Полупрозрачный фон уведомлений</string>
+
+    <!-- Media art -->
+    <string name="lockscreen_media_art_title">Музыкальная обложка</string>
+    <string name="lockscreen_media_art_summary">Переключение видимости музыкальной обложки</string>
+
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Информация о зарядки на экране блокировки</string>
+    <string name="lockscreen_battery_info_summary">Отображение тока и напряжения, а также температуры батареи на экране блокировки во время зарядки</string>
+
+    <string name="notification_sound_vib_screen_on_title">Звук уведомления</string>
+    <string name="notification_sound_vib_screen_on_summary">Воспроизведение звука и вибрации для уведомлений при включенном экране</string>
+
+    <!-- Quick settings haptic feedback -->
+    <string name="quick_settings_vibrate_title">Вибрировать при касании</string>
+    <string name="quick_settings_vibrate_summary">Вибрировать при прикосновении к плитке</string>
+
+    <string name="ambient_display_custom_title">Активный экран</string>
+
+    <!-- Battery mode -->
+    <string name="battery_percentage_title">Процент уровня заряда</string>
+    <string name="battery_percentage_off">Отключено</string>
+    <string name="battery_percentage_next">Включено</string>
+    <string name="battery_percentage_inside">Включено (внутри иконки)</string>
+    <string name="battery_percentage_estimate">Включено (время работы)</string>
+
+    <!-- Status bar - Battery -->
+    <string name="status_bar_battery_style_title">Стиль значка батареи</string>
+    <string name="status_bar_battery_style_icon_portrait">Вертикальный значок</string>
+    <string name="status_bar_battery_style_icon_landscape">Горизонтальный значок</string>
+    <string name="status_bar_battery_style_circle">Круг</string>
+    <string name="status_bar_battery_style_dotted_circle">Круг с точками</string>
+    <string name="status_bar_battery_style_big_circle">Большой круг</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Большой круг с точками</string>
+    <string name="status_bar_battery_style_square">Квадрат</string>
+    <string name="status_bar_battery_style_solid">Сплошной</string>
+    <string name="status_bar_battery_style_text">Текст</string>
+    <string name="status_bar_battery_style_hidden">Спрятан</string>
+    <string name="status_bar_battery_style_q">Стиль Q</string>	
+
+    <string name="status_bar_battery_style_tile_title">Переопределить значок батареи в статус баре</string>
+    <string name="status_bar_battery_style_tile_summary">Использовать тот же стиль значков, что и в плитке батареи QS</string>
+
+    <!-- Status bar - Battery custom charging symbol -->
+    <string name="text_charging_symbol_title">Пользовательский символ зарядки для текстового стиля</string>
+    <string name="text_charging_symbol_dialog">Пользовательский символ зарядки рядом с текстом в процентах батареи</string>
+    <string name="text_charging_symbol_default">Отключено</string>
+    <string name="text_charging_symbol_flash">Молния</string>
+    <string name="text_charging_symbol_tilde">Тильда</string>
+
+    <!-- Status bar - Battery percentage -->
+    <string name="status_bar_battery_percentage_title">Процент уровня заряда батареи</string>
+    <string name="status_bar_battery_percentage_default">Спрятано</string>
+    <string name="status_bar_battery_percentage_text_inside">Внутри иконки</string>
+    <string name="status_bar_battery_percentage_text_next">После</string>
+    <string name="status_bar_battery_text_position_title">Позиция процента уровня заряда батареи</string>
+    <string name="status_bar_battery_text_position_left">Слева от иконки</string>
+    <string name="status_bar_battery_text_position_right">Справа от икноки</string>
+    <string name="status_bar_battery_text_charging_title">Процент уровня заряда батареи при зарядке</string>
+    <string name="status_bar_battery_text_charging_summary">Всегда отображать процент батареи при зарядке</string>
+
+    <!-- Lockscreen weather -->
+    <string name="lockscreen_weather_category">Погода</string>
+    <string name="lockscreen_weather_enabled_title">Отображать на экране блокировки</string>
+    <string name="lockscreen_weather_enabled_summary">Показать информацию о погоде на экране блокировки и во время сна(телефона)</string>
+    <string name="lockscreen_weather_settings_title">Настройки параметров погоды</string>
+    <string name="lockscreen_weather_settings_summary">Настройка  значков и службы погоды</string>
+    <string name="weather_config_title">Сервис погоды</string>
+    <string name="weather_config_summary">Параметры настройки системной службы</string>
+    <string name="header_weather_title">Заголовок просмотра погоды</string>
+    <string name="header_weather_summary">Включить отображение погоды в заголовке панели уведомлений</string>
+    <string name="weather_icon_pack_title">Набор значков состояния</string>
+    <string name="weather_icon_pack_note">Примечание\u003a вы можете установить новые пакеты значков из магазина игр, выполнив поиск по запросу \"Chronus icons\"</string>
+    <string name="weather_icon_pack_info_title">Пакет значков состояния используется в быстрых настройках и на экране блокировки</string>
+
+    <!-- Lockscreen weather style -->
+    <string name="lockscreen_weather_style_title">Стиль погоды</string>
+    <string name="lockscreen_weather_omni_style_title">Omni стиль</string>
+    <string name="lockscreen_weather_pixel_style_title">Pixel стиль</string>
+
+    <!--SystemUI Tuner -->
+    <string name="statusbar_tuner_title">Элементы строки состояния</string>
+    <string name="statusbar_tuner_summary">Выберите значки в строке состояния, которые нужно отключить</string>
+
+    <string name="system_global_actions_category">Глобальные действия</string>
+
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Включить расширенный перезапуск</string>
+    <string name="global_actions_advanced_reboot_summary">Показать значки для режима восстановления и загрузчика</string>
+
+    <!-- Brightness control -->
+    <string name="status_bar_toggle_brightness">Контроль яркости</string>
+    <string name="status_bar_toggle_brightness_summary">Отрегулируйте яркость, проведя пальцем по строке состояния</string>
+
+    <!-- Torch Power button gestures -->
+    <string name="torch_power_button_gesture_title">Включить фонарик при выключенном экране</string>
+    <string name="torch_power_button_gesture_none">Отключено</string>
+    <string name="torch_power_button_gesture_dt">Двойное нажатие кнопки питания (более медленный отклик на одно нажатие)</string>
+    <string name="torch_power_button_gesture_dt_toast">Жест перехода к камере теперь отключен</string>
+    <string name="torch_power_button_gesture_lp">Нажмитие и удержание кнопки питания</string>
+
+    <!-- Statusbar Clock -->
+    <string name="status_bar_clock_title">Настройки часов</string>
+    <string name="status_bar_clock_pos_title">Положение</string>
+    <string name="status_bar_clock_pos_right">Справа</string>
+    <string name="status_bar_clock_pos_center">По центру</string>
+    <string name="status_bar_clock_pos_left">Слева</string>
+    <string name="status_bar_am_pm_title">Стиль AM/PM</string>
+    <string name="status_bar_am_pm_normal">Нормальный</string>
+    <string name="status_bar_am_pm_small">Маленький</string>
+    <string name="status_bar_am_pm_hidden">Спрятан (по умолчанию)</string>
+
+    <!-- Notification headers -->
+    <string name="notification_headers_title">Заголовки уведомлений</string>
+    <string name="notification_headers_summary"> Показывать заголовки в тени уведомлений\nТребуется перезапуск системного интерфейса</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_conditions_title">Условия на панели инструментов</string>
+    <string name="summary_dashboard_conditions_enabled">Условия панели инструментов включены</string>
+    <string name="summary_dashboard_conditions_disabled">Условия приборной панели отключены</string>
+    <string name="dashboard_suggestions_title"> Предложения на панели инструментов</string>
+    <string name="summary_dashboard_suggestions_enabled">Предложения на панели инструментов включены</string>
+    <string name="summary_dashboard_suggestions_disabled">Предложения на панели инструментов отключены</string>
+
+    <!-- Lock screen visualizer -->
+    <string name="lockscreen_visualizer_title">Визуализатор музыки</string>
+    <string name="lockscreen_visualizer_summary">Включить визуализатор музыки на экране блокировки</string>
+    <string name="lockscreen_visualizer_enable">Музыкальный визуализатор</string>
+    <string name="lockscreen_visualizer_enable_summary">Показывать визуализатор во время воспроизведения музыки</string>
+    <string name="lockscreen_autocolor_title">Автоматический цветr</string>
+    <string name="lockscreen_autocolor_summary">Синхронизировать цвет с фоном экрана блокировки</string>
+    <string name="lockscreen_autocolor_lavalamp">Требуется отключенная лавовая лампа</string>
+    <string name="lockscreen_lavalamp_title">Лавовая лампа</string>
+    <string name="lockscreen_lavalamp_summary">Используйте плавную анимацию наложения цветов в стиле лавовой лампы</string>
+    <string name="lockscreen_lavalamp_speed_title">Интервал наложения цветов</string>
+    <string name="lockscreen_solid_lines_category">Сплошные линии</string>
+    <string name="lockscreen_solid_units_count_title">Количество строк</string>
+    <string name="lockscreen_solid_fudge_factor_title">Уровень оживления</string>
+    <string name="lockscreen_solid_units_opacity_title">Непрозрачность линий</string>
+
+    <!-- Power menu on lockscreen -->
+    <string name="lockscreen_power_menu_disabled_title">Отключить меню питания на экране блокировки</string>
+    <string name="lockscreen_power_menu_disabled_summary">Это отключит меню питания только на защищенных экранах блокировки</string>
+
+    <!-- Quick Settings -->
+    <string name="lockscreen_qs_disabled_title">Отключить быстрые настройки при блокировке</string>
+    <string name="lockscreen_qs_disabled_summary">Отключить раскрытие быстрых настроек на безопасных экранах блокировки</string>
+
+    <!-- Statusbar net monitor -->
+    <string name="traffic_title">Индикатор скорости трафика</string>
+    <string name="network_traffic">Сетевой трафик</string>
+    <string name="network_traffic_state_title">Экран сетевого трафика</string>
+    <string name="network_traffic_location">Расположение индикатора трфика</string>
+    <string name="traffic_disabled">Отелючен</string>
+    <string name="traffic_statusbar">Статус бар</string>
+    <string name="traffic_expanded_statusbar">Расширенный заголовок</string>
+    <string name="network_traffic_autohide_threshold_title">Порог срабатывания сетевой активности</string>
+    <string name="network_traffic_arrow">Показать стрелки</string>
+    <string name="network_traffic_arrow_summary">Показать стрелки на индикаторе трафика</string>
+    <string name="network_traffic_type">Выберите тип сетевой активности</string>
+    <string name="show_network_traffic_combined">Совмещенный (Отдача + Загрузка)</string>
+    <string name="show_network_traffic_dynamic">Динамичский</string>
+    <string name="show_network_traffic_up">Отдача</string>
+    <string name="show_network_traffic_down">Загрузка</string>
+    <string name="show_network_traffic_all">Оба</string>
+    <string name="nettraf_font_size">Размер шрифта</string>
+
+    <!-- Lockscreen media artwork -->
+    <string name="lockscreen_media_blur_title">Уровень размытия медиа обложки</string>
+    <string name="lockscreen_media_art_options_title">Обложка на экране блокировки</string>
+
+    <!-- Volume rocker cursor control -->
+    <string name="cursor_section_header">Курсор</string>
+    <string name="volume_key_cursor_control_title">Keyboard cursor control</string>
+    <string name="volume_key_cursor_control_off">Disabled</string>
+    <string name="volume_key_cursor_control_on">Volume Up/Down - Cursor Left/Right</string>
+    <string name="volume_key_cursor_control_on_reverse">Volume Up/Down - Cursor Right/Left</string>
+
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_show_brightness_slider_title">Слайдер яркости</string>
+    <string name="qs_show_brightness_slider_summary">Показать слайдер яркости в панели быстрых настроек</string>
+    <string name="qs_show_auto_brightness_title">Иконка автояроксти</string>
+    <string name="qs_show_auto_brightness_summary">Показать переключатель автояркости рядом с ползунком</string>
+    <string name="qs_show_brightness_slider_show_never">Никогда не показывать</string>
+    <string name="qs_show_brightness_slider_show_expanded">Показывать, когда раскрыта</string>
+    <string name="qs_show_brightness_slider_show_always">Показывать постоянно</string>
+
+    <!-- Volume panel on left switch -->
+    <string name="volume_panel_on_left_title">Показать панель громкости слева</string>
+
+    <string name="lockscreen_lock_icon_title">Значок блокировки</string>
+    <string name="lockscreen_lock_icon_summary">Отображать занчок блокировки на экране блокировки</string>
+
+    <!-- QS background opacity -->
+    <string name="qs_theme_category">Стиль</string>
+    <string name="qs_panel_alpha_title">Непрозрачность фона</string>
+
+    <!-- Center R Notification headers -->
+    <string name="center_notification_headers_title">Заголовки уведомлений по центру</string>
+    <string name="center_notification_headers_summary">Центрировать заголовки уведомлений в стиле R (требуется перезапуск системного интерфейса)</string>
+
+
 </resources>
